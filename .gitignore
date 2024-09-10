@@ -40,3 +40,6 @@ terraform.rc
 
 # Ignore the tfplan
 *.tfplan
+
+# The study guide, DO NOT push this to the repo
+study-guide/
