@@ -43,3 +43,6 @@ terraform.rc
 
 # The study guide, DO NOT push this to the repo
 study-guide/
+
+# Remove vscode workspace specifc stuff
+.vscode/
