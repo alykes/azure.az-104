@@ -42,3 +42,22 @@ The basic terminology to use is:
   - Give it a unique domain name and region  
 
 ### Switching between Entra ID tenants
+
+To do this, go to Entra ID. Click on Manage Tenants, choose the tenant and then click switch.  
+You can also click on your profile picture and click on Switch, then select the tenant.  
+
+## Purchasing P2 licenses  
+
+To purchase the license, you need to go to 365 Admin center, Add more products, then under security you can select the license there.  
+Under `licenses | All Products`, you can also select `Try/Buy`  
+
+## Adding custom domains  
+
+You need to connect a domain to your Azure tenant so that you can manage and invite users to your tenant. To set up a custom domain, follow the sequence of steps below:
+
+- In Entra ID, click on `Custom Domain Name`  
+- Select `Add custom domain`  
+- Enter the domain name and click `Add domain`
+- You will get some DNS records that you need to enter into your DNS server to verify the domain
+- Click on `verify` after you enter the records
+- You can make the verified domain your primary domain and create users in this domain

@@ -18,7 +18,7 @@ JSON for templates and CLI responses are returned in json
 
 ## Access to Azure  
 
-[https://portal.azure.com](Azure Portal)  
+[Azure Portal](https://portal.azure.com)  
 
 ## How will MS test you?  
 
