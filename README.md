@@ -23,7 +23,7 @@ or use:
 
 ## Using Powershell to Create and Remove Containers
 
-```powerhsell
+```powershell
 resourceGroupName = "<resourceGroupName>"                                                                           
 $storageAccountName = "<storagaAccountName>"
 $storageAccount = Get-AzStorageAccount -ResourceGroupName $resourceGroupName -Name $storageAccountName
