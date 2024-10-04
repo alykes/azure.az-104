@@ -6,7 +6,7 @@
 
 ## Get your subscription ID
 
-`az account list | findstr /i '\"id\":'`  
+```powerhsell az account list | findstr /i '\"id\":'```  
 or use:  
 `az account list | findstr /i '\"id\":' | ForEach-Object { $_ -replace '^\s*', '' -replace '"id": "', '' -replace '",$', '' }`  
 
