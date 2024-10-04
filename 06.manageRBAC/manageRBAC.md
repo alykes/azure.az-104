@@ -84,8 +84,3 @@ When you assign permissions to users, they get the sum or union of the roles the
 
 You can't add deny rules in the Azure Portal, you basically don't grant the user access at all.  
 Deny Assignments is by using Azure Blueprints (out of scope).  
-
-## HANDS ON LABS
-
-[Subscriptions](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.md)
-[Policies](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.md)
