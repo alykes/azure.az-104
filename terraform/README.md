@@ -2,6 +2,7 @@
 
 This repository serves as a reference for course materials to aid in studying for the Microsoft AZ-104 exam.
 
+<!-- markdownlint-disable MD033 -->
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
@@ -41,3 +42,4 @@ No modules.
 |----------------------------------------------------------------------------------|-------------|
 | <a name="output_Resource_Group"></a> [Resource\_Group](#output\_Resource\_Group) | n/a         |
 <!-- END_TF_DOCS -->
+<!-- markdownlint-enable MD033 -->
